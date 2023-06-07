@@ -1,0 +1,202 @@
+ID_receta,Receta,ingrediente1,ingrediente2,ingrediente3,ingrediente4,ingrediente5,ingrediente6,ingrediente7
+0,"Ensalada de pollo",Pollo,Lechuga,Tomate,Pepino,Maiz,Zanahoria,Aderezo de yogur
+1,"Tortilla de espinacas",Huevo,Espinaca,Queso,Sal,Pimienta,Aceite de oliva,Cebolla
+2,"Sopa de pollo y verduras",Pollo,Zanahoria,Apio,Caldo de pollo,Cebolla,Ajo,Fideos
+3,"Lomo de cerdo a la mostaza",Lomo de cerdo,Mostaza,Dientes de ajo,Salsa de soja,Aceite de oliva,Miel,Sal
+4,"Pasta primavera",Pasta,Calabacin,Tomate cherry,Espinacas,Aceite de oliva,Ajo,Queso parmesano
+5,"Ensalada de garbanzos",Garbanzos,Tomate,Pepino,Cebolla,Pimiento rojo,Perejil,Aderezo de limon
+6,"Salmón al horno con limón",Filete de salmón,Limón,Aceite de oliva,Sal,Pimienta,Eneldo,Patatas
+7,"Wrap de pollo",Tortilla de trigo,Pollo,Lechuga,Tomate,Cebolla,Mayonesa,Salsa de yogur
+8,"Sopa de tomate",Tomate,Cebolla,Ajo,Caldo de verduras,Aceite de oliva,Albahaca,Sal
+9,"Hamburguesa de quinoa",Quinoa,Champinones,Cebolla,Pimiento rojo,Ajo,Pan rallado,Huevo
+10,"Pollo al horno con papas",Muslos de pollo,Patatas,Aceite de oliva,Ajo,Sal,Pimienta,Pimentón dulce
+11,"Ensalada de frutas tropicales",Pina,Mango,Papaya,Kiwi,Platano,Coco rallado,Leche de coco
+12,"Risotto de champinones y espinacas",Arroz arborio,Champinones,Espinacas,Caldo de verduras,Cebolla,Ajo,Vino blanco
+13,"Pollo a la parrilla con ensalada griega",Pechuga de pollo,Lechuga,Tomate,Pepino,Cebolla,Feta,Aceitunas negras
+14,"Lasaña de carne",Carne molida,Tomate frito,Queso mozzarella,Queso parmesano,Aceite de oliva,Cebolla,Ajo
+15,"Ensalada de quinoa y aguacate",Quinoa,Aguacate,Tomate,Pepino,Cebolla,Perejil,Aderezo de limon
+16,"Pasta alfredo con pollo",Pasta,Pollo,Crema de leche,Mantequilla,Ajo,Sal,Pimienta
+17,"Sopa de calabaza",Calabaza,Caldo de verduras,Cebolla,Ajo,Aceite de oliva,Pimentón dulce,Sal
+18,"Tacos vegetarianos",Tortillas de maiz,Champinones,Pimiento rojo,Cebolla,Zanahoria,Lechuga,Salsa de yogur
+19,"Salmón a la parrilla con espárragos",Filete de salmón,Esparragos,Aceite de oliva,Sal,Pimienta,Ajo,Limon
+20,"Ensalada de pollo y mango",Pollo,Mango,Lechuga,Tomate,Cebolla,Almendras,Salsa de yogur
+21,"Tarta de espinacas y queso",Masa de tarta,Espinacas,Queso ricotta,Queso parmesano,Huevos,Cebolla,Ajo
+22,"Sopa de cebolla gratinada",Cebolla,Caldo de verduras,Pan tostado,Queso gruyere,Mantequilla,Harina,Sal
+23,"Ratatouille",Calabacin,Berenjena,Pimiento rojo,Pimiento verde,Cebolla,Ajo,Aceite de oliva
+24,"Wrap vegetariano",Tortilla de trigo,Hummus,Espinacas,Zanahoria,Pimiento rojo,Pepino,Cebolla
+25,"Lasana vegetariana",Espinacas,Tomate,Queso mozzarella,Queso ricotta,Queso parmesano,Aceite de oliva,Ajo
+26,"Ensalada de patata",Patatas,Huevos,Cebolla,Pepinillos,Mayonesa,Mostaza,Eneldo
+27,"Pollo agridulce",Pollo,Pimiento rojo,Pimiento verde,Cebolla,Pina,Salsa agridulce,Salsa de soja
+28,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+29,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+30,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+31,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+32,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+33,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+34,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+35,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+36,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+37,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+38,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+39,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+40,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+41,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+42,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+43,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+44,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+45,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+46,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+47,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+48,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+49,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+50,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+51,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+52,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+53,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+54,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+55,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+56,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+57,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+58,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+59,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+60,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+61,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+62,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+63,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+64,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+65,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+66,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+67,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+68,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+69,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+70,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+71,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+72,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+73,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+74,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+75,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+76,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+77,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+78,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+79,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+80,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+81,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+82,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+83,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+84,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+85,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+86,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+87,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+88,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+89,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+90,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+91,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+92,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+93,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+94,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+95,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+96,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+97,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+98,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+99,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+100,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+101,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+102,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+103,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+104,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+105,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+106,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+107,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+108,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+109,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+110,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+111,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+112,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+113,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+114,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+115,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+116,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+117,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+118,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+119,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+120,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+121,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+122,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+123,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+124,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+125,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+126,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+127,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+128,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+129,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+130,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+131,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+132,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+133,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+134,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+135,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+136,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+137,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+138,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+139,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+140,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+141,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+142,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+143,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+144,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+145,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+146,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+147,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+148,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+149,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+150,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+151,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+152,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+153,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+154,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+155,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+156,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+157,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+158,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+159,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+160,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+161,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+162,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+163,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+164,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+165,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+166,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+167,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+168,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+169,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+170,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+171,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+172,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+173,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+174,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+175,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+176,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+177,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+178,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+179,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+180,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+181,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+182,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza
+183,"Lomo de cerdo al horno",Lomo de cerdo,Ajo,Romero,Aceite de oliva,Sal,Pimienta,Papas
+184,"Pasta con salsa de champinones",Pasta,Champinones,Cebolla,Ajo,Crema de leche,Aceite de oliva,Sal
+185,"Ensalada de pepino y yogur",Pepino,Yogur griego,Ajo,Eneldo,Sal,Aceite de oliva,Limon
+186,"Salmon a la plancha con salsa de eneldo",Filete de salmón,Eneldo,Aceite de oliva,Sal,Pimienta,Limon,Miel
+187,"Papa rellena",Papas,Carne molida,Cebolla,Ajo,Aceite de oliva,Comino,Huevo
+188,"Ensalada de rucula y parmesano",Rucula,Tomate cherry,Queso parmesano,Aceite de oliva,Limon,Sal,Pimienta
+189,"Pollo al limon",Pollo,Limon,Aceite de oliva,Ajo,Sal,Pimienta,Oregano
+190,"Pasta con salsa de tomate y albahaca",Pasta,Tomate,Aceite de oliva,Albahaca,Ajo,Sal,Pimienta
+191,"Ensalada de camarones",Camarones,Lechuga,Tomate,Pepino,Palta,Cebolla,Maiz
+192,"Cordon bleu de pollo",Pechuga de pollo,Jamon,Queso mozzarella,Harina de trigo,Huevo,Pan rallado,Aceite de oliva
+193,"Ensalada de remolacha",Remolacha,Lechuga,Zanahoria,Pepino,Cebolla,Pasas,Vinagreta de miel
+194,"Tarta de manzana",Masa de tarta,Manzana,Azucar,Mantequilla,Canela,Harina de trigo,Jugo de limon
+195,"Pasta con pesto de albahaca",Pasta,Albahaca,Aceite de oliva,Ajo,Sal,Pimienta,Queso parmesano
+196,"Ensalada de quinoa y vegetales asados",Quinoa,Calabacin,Pimiento rojo,Cebolla,Zanahoria,Espinacas,Aderezo balsamico
+197,"Pollo al horno con verduras",Muslos de pollo,Calabacin,Pimiento rojo,Cebolla,Aceite de oliva,Ajo,Sal
+198,"Tacos de carne asada",Carne asada,Tortillas de maiz,Cebolla,Cilantro,Limon,Salsa de tomate,Sal
+199,"Risotto de calabaza",Arroz arborio,Calabaza,Caldo de verduras,Cebolla,Aceite de oliva,Vino blanco,Queso parmesano
+200,"Ensalada de pollo y arandanos",Pollo,Lechuga,Tomate,Arandanos,Almendras,Cebolla,Miel mostaza

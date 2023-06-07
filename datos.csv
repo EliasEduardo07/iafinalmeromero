@@ -1,0 +1,98 @@
+Alimento,Proteinas,Carbohidratos,Grasas,Vitaminas,Minerales,Calorias
+Pollo,25,0,5,A,C,200
+Arroz,3,40,1,B,D,150
+Leche,8,12,2,A,B,120
+Yogur,6,10,1,B,C,100
+Frijoles,7,20,1,C,D,180
+Atún,29,0,3,A,C,250
+Huevo,6,0,5,B,D,70
+Pasta,12,30,2,C,A,200
+Queso,25,1,10,A,B,180
+Manzana,0,14,0,B,C,50
+Plátano,1,23,0,A,D,100
+Sandía,1,8,0,A,C,30
+Zanahoria,1,7,0,A,D,41
+Tomate,1,4,0,C,D,18
+Espárragos,2,3,0,A,C,20
+Brócoli,2,5,0,C,A,31
+Pan,8,50,3,B,A,265
+Carne de res,26,0,17,B,D,250
+Salmón,20,0,13,A,D,250
+Avena,13,68,7,B,A,389
+Naranja,1,14,0,C,B,43
+Papa,2,17,0,C,D,77
+Mango,1,25,0,C,A,60
+Tofu,8,2,4,B,C,70
+Nuez,15,7,65,C,D,654
+Kiwi,1,15,1,C,D,61
+Fresas,1,8,0,C,D,32
+Lentejas,9,20,0,A,B,116
+Garbanzos,9,27,3,A,C,164
+Habas,7,13,1,A,D,88
+Almendras,21,22,49,E,D,579
+Cebolla,1,9,0,C,B,40
+Espinacas,3,3,0,A,C,23
+Cerdo,21,0,6,A,D,143
+Calabaza,1,4,0,A,C,18
+Pechuga de pavo,24,0,1,A,C,125
+Pan integral,8,45,3,B,A,265
+Pargo,20,0,5,A,D,153
+Galletas,4,75,14,A,B,456
+Pera,1,17,0,C,B,57
+Garbanzos,9,27,3,A,C,164
+Champiñones,3,2,1,C,D,22
+Pimiento rojo,1,6,0,C,A,31
+Aceite de oliva,0,0,14,E,D,126
+Ternera,36,0,8,B,D,250
+Pavo,30,0,3,A,D,135
+Yema de huevo,16,1,32,B,D,322
+Pescado blanco,22,0,1,A,D,105
+Sardinas,25,0,11,B,D,208
+Pechuga de pollo,31,0,3,A,C,165
+Lechuga,1,3,0,A,C,14
+Alubias,6,24,1,A,B,143
+Frambuesas,1,12,0,C,D,53
+Hígado,21,4,3,A,D,135
+Melocotón,1,15,0,C,C,39
+Lomo de cerdo,29,0,14,B,D,250
+Espinacas,3,3,0,A,C,23
+Tocino,15,0,42,A,D,470
+Patata dulce,2,20,0,C,A,86
+Camarones,24,0,1,A,D,99
+Tofu,8,2,4,B,C,70
+Remolacha,2,9,0,A,C,43
+Miel,0,82,0,B,A,304
+Pargo,20,0,5,A,D,153
+Trucha,20,0,6,A,D,129
+Salmón,20,0,13,A,D,250
+Mero,18,0,2,A,D,97
+Cangrejo,19,0,1,A,D,83
+Naranja,1,14,0,C,B,43
+Plátano,1,23,0,A,D,100
+Manzana,0,14,0,B,C,50
+Mango,1,25,0,C,A,60
+Piña,0,13,0,C,D,50
+Mandarina,1,13,0,C,B,53
+Lima,1,8,0,C,B,30
+Limón,1,9,0,C,B,29
+Granada,1,18,0,C,D,83
+Pera,1,17,0,C,B,57
+Durazno,1,15,0,C,C,39
+Ciruela,0,10,0,C,D,46
+Frambuesas,1,12,0,C,D,53
+Fresas,1,8,0,C,D,32
+Arándanos,0,14,0,C,D,57
+Mora,1,10,0,C,C,43
+Uva,0,17,0,C,C,69
+Mandarina,1,13,0,C,B,53
+Lima,1,8,0,C,B,30
+Limón,1,9,0,C,B,29
+Kiwi,1,15,1,C,D,61
+Cereza,1,12,0,C,C,50
+Coco,3,15,33,B,D,354
+Avellanas,15,17,63,E,D,628
+Almendras,21,22,49,E,D,579
+Cacahuetes,26,16,50,E,D,567
+Nuez,15,7,65,C,D,654
+Pistachos,21,28,45,E,D,562
+Castañas,2,39,4,C,D,245

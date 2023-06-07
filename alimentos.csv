@@ -1,0 +1,351 @@
+ID_alimento,Nombre_alimento,Grupo_alimento,Calorías,Grasas,Proteínas,Carbohidratos,Vitaminas,Minerales
+1,Manzana,Frutas,52,0.2,0.3,14,A,C
+2,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+3,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+4,Arroz,Cereales,130,0.3,2.7,28,B,D
+5,Leche,Lácteos,61,3.2,3.3,4.8,A,B
+6,Huevo,Huevos,78,5.3,6.3,0.6,A,D
+7,Tomate,Verduras,18,0.2,0.9,3.9,C,B
+8,Salmón,Pescados,206,13.4,22,0,B,C
+9,Yogur,Lácteos,59,0.4,3.5,10,B,C
+10,Lentejas,Legumbres,116,0.4,9,20,A,B
+11,Pera,Frutas,57,0.2,0.4,15,B,C
+12,Zanahoria,Verduras,41,0.2,0.9,10,A,B
+13,Res,Carne,250,20,26,0,Ninguna,Ninguna
+14,Avena,Cereales,389,6.9,16.9,66.3,B,E
+15,Queso,Lácteos,402,33.2,25,1.3,A,B
+16,Aceite,Varios,884,100,0,0,Ninguna,Ninguna
+17,Cebolla,Verduras,40,0.1,1.1,9.3,C,B
+18,Trucha,Pescados,119,4.1,20,0,B,C
+19,Jamón,Carne,136,5.4,19.3,0.6,Ninguna,Ninguna
+20,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+21,Sandía,Frutas,30,0.2,0.6,8,C,C
+22,Pimiento,Verduras,20,0.2,0.9,4.6,C,B
+23,Cordero,Carne,294,20.3,25.6,0,Ninguna,Ninguna
+24,Maíz,Cereales,86,1.2,3.2,19,B,C
+25,Yogur griego,Lácteos,133,10,10,3.4,B,C
+26,Mantequilla,Varios,717,81.1,0.9,0.1,A,A
+27,Calabacín,Verduras,17,0.3,1.2,3.1,C,B
+28,Atún enlatado,Pescados,96,0.5,21.5,0,B,C
+29,Ternera,Carne,250,20,26,0,Ninguna,Ninguna
+30,Quinoa,Cereales,368,6.1,14.1,64.2,B,E
+31,Queso cottage,Lácteos,98,4.3,11.1,1.7,A,B
+32,Aceitunas,Varios,145,15,0.8,3.8,C,A
+33,Pepino,Verduras,16,0.1,0.6,3.6,C,B
+34,Bacalao,Pescados,82,0.7,18,0,B,C
+35,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+36,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+37,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+38,Papa,Verduras,77,0.1,2,17,C,B
+39,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+40,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+41,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+42,Miel,Varios,304,0,0.3,82,A,B
+43,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+44,Sardinas,Pescados,208,11.5,24,0,B,C
+45,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+46,Soja,Legumbres,446,19.9,36.5,33.2,B,D
+47,Frambuesa,Frutas,52,0.7,1.2,12,A,C
+48,Patata,Verduras,77,0.1,2,17,C,B
+49,Pato,Carne,337,25.2,19.5,0,Ninguna,Ninguna
+50,Cebada,Cereales,354,2.3,12.5,73.5,B,D
+51,Kéfir,Lácteos,41,1.8,3.3,3.9,A,B
+52,Mermelada,Varios,278,0.1,0.3,72,A,A
+53,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+54,Trucha,Pescados,119,4.1,20,0,B,C
+55,Tofu,Legumbres,144,8.4,15.1,1.5,A,B
+56,Fresas,Frutas,32,0.3,0.7,7.7,C,C
+57,Calabaza,Verduras,26,0.1,1,6.5,A,B
+58,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+59,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+60,Yogur griego,Lácteos,133,10,10,3.4,B,C
+61,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+62,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+63,Salmón,Pescados,206,13.4,22,0,B,C
+64,Bistec,Carne,250,20,26,0,Ninguna,Ninguna
+65,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+66,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+67,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+68,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+69,Bacalao,Pescados,82,0.7,18,0,B,C
+70,Carne molida,Carne,250,20,26,0,Ninguna,Ninguna
+71,Guisantes,Legumbres,81,0.4,5.4,14.5,A,B
+72,Naranja,Frutas,43,0.1,0.9,11.2,A,C
+73,Brotes de soja,Verduras,147,0.6,13,14,C,B
+74,Cordero,Carne,294,20.3,25.6,0,Ninguna,Ninguna
+75,Cereal de trigo,Cereales,346,1.9,10.6,77,B,D
+76,Leche de coco,Lácteos,230,23.8,2.3,5.5,A,B
+77,Aceite de coco,Varios,862,100,0,0,Ninguna,Ninguna
+78,Champiñones,Verduras,22,0.3,3.1,3.3,C,B
+79,Anchoas,Pescados,131,7.2,14.9,0,B,C
+80,Salami,Carne,336,31.4,15.9,2.4,Ninguna,Ninguna
+81,Lentejas,Legumbres,116,0.4,9,20,A,B
+82,Melón,Frutas,34,0.2,0.9,8.2,A,C
+83,Col rizada,Verduras,49,0.9,4.3,8.4,A,C
+84,Cordero,Carne,294,20.3,25.6,0,Ninguna,Ninguna
+85,Avena,Cereales,389,6.9,16.9,66.3,B,E
+86,Queso,Lácteos,402,33.2,25,1.3,A,B
+87,Aceite,Varios,884,100,0,0,Ninguna,Ninguna
+88,Calabaza,Verduras,26,0.1,1,6.5,A,B
+89,Bacalao,Pescados,82,0.7,18,0,B,C
+90,Mortadela,Carne,311,29.2,14.8,0.5,Ninguna,Ninguna
+91,Frijoles rojos,Legumbres,333,0.9,24,61,A,B
+92,Mango,Frutas,60,0.4,0.8,15,A,C
+93,Berenjena,Verduras,25,0.2,1.2,5.7,C,B
+94,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+95,Trigo,Cereales,329,1.9,12.6,71.2,B,D
+96,Yogur griego,Lácteos,133,10,10,3.4,B,C
+97,Aceitunas,Varios,145,15,0.8,3.8,C,A
+98,Pepino,Verduras,16,0.1,0.6,3.6,C,B
+99,Salmón,Pescados,206,13.4,22,0,B,C
+100,Jamón,Carne,136,5.4,19.3,0.6,Ninguna,Ninguna
+101,Arvejas,Legumbres,81,0.4,5.4,14.5,A,B
+102,Piña,Frutas,50,0.1,0.5,13.1,A,C
+103,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+104,Cordero,Carne,294,20.3,25.6,0,Ninguna,Ninguna
+105,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+106,Yogur griego,Lácteos,133,10,10,3.4,B,C
+107,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+108,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+109,Sardinas,Pescados,208,11.5,24,0,B,C
+110,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+111,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+112,Melocotón,Frutas,39,0.2,0.9,10,A,C
+113,Brotes de soja,Verduras,147,0.6,13,14,C,B
+114,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+115,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+116,Yogur griego,Lácteos,133,10,10,3.4,B,C
+117,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+118,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+119,Salmón,Pescados,206,13.4,22,0,B,C
+120,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+121,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+122,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+123,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+124,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+125,Bacalao,Pescados,82,0.7,18,0,B,C
+126,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+127,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+128,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+129,Papa,Verduras,77,0.1,2,17,C,B
+130,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+131,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+132,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+133,Miel,Varios,304,0,0.3,82,A,B
+134,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+135,Sardinas,Pescados,208,11.5,24,0,B,C
+136,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+137,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+138,Melón,Frutas,34,0.2,0.9,8.2,A,C
+139,Brotes de soja,Verduras,147,0.6,13,14,C,B
+140,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+141,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+142,Yogur griego,Lácteos,133,10,10,3.4,B,C
+143,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+144,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+145,Salmón,Pescados,206,13.4,22,0,B,C
+146,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+147,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+148,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+149,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+150,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+151,Bacalao,Pescados,82,0.7,18,0,B,C
+152,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+153,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+154,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+155,Papa,Verduras,77,0.1,2,17,C,B
+156,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+157,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+158,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+159,Miel,Varios,304,0,0.3,82,A,B
+160,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+161,Sardinas,Pescados,208,11.5,24,0,B,C
+162,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+163,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+164,Melón,Frutas,34,0.2,0.9,8.2,A,C
+165,Brotes de soja,Verduras,147,0.6,13,14,C,B
+166,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+167,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+168,Yogur griego,Lácteos,133,10,10,3.4,B,C
+169,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+170,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+171,Salmón,Pescados,206,13.4,22,0,B,C
+172,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+173,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+174,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+175,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+176,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+177,Bacalao,Pescados,82,0.7,18,0,B,C
+178,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+179,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+180,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+181,Papa,Verduras,77,0.1,2,17,C,B
+182,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+183,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+184,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+185,Miel,Varios,304,0,0.3,82,A,B
+186,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+187,Sardinas,Pescados,208,11.5,24,0,B,C
+188,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+189,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+190,Melón,Frutas,34,0.2,0.9,8.2,A,C
+191,Brotes de soja,Verduras,147,0.6,13,14,C,B
+192,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+193,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+194,Yogur griego,Lácteos,133,10,10,3.4,B,C
+195,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+196,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+197,Salmón,Pescados,206,13.4,22,0,B,C
+198,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+199,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+200,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+201,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+202,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+203,Bacalao,Pescados,82,0.7,18,0,B,C
+204,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+205,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+206,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+207,Papa,Verduras,77,0.1,2,17,C,B
+208,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+209,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+210,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+211,Miel,Varios,304,0,0.3,82,A,B
+212,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+213,Sardinas,Pescados,208,11.5,24,0,B,C
+214,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+215,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+216,Melón,Frutas,34,0.2,0.9,8.2,A,C
+217,Brotes de soja,Verduras,147,0.6,13,14,C,B
+218,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+219,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+220,Yogur griego,Lácteos,133,10,10,3.4,B,C
+221,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+222,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+223,Salmón,Pescados,206,13.4,22,0,B,C
+224,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+225,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+226,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+227,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+228,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+229,Bacalao,Pescados,82,0.7,18,0,B,C
+230,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+231,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+232,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+233,Papa,Verduras,77,0.1,2,17,C,B
+234,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+235,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+236,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+237,Miel,Varios,304,0,0.3,82,A,B
+238,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+239,Sardinas,Pescados,208,11.5,24,0,B,C
+240,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+241,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+242,Melón,Frutas,34,0.2,0.9,8.2,A,C
+243,Brotes de soja,Verduras,147,0.6,13,14,C,B
+244,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+245,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+246,Yogur griego,Lácteos,133,10,10,3.4,B,C
+247,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+248,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+249,Salmón,Pescados,206,13.4,22,0,B,C
+250,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+251,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+252,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+253,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+254,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+255,Bacalao,Pescados,82,0.7,18,0,B,C
+256,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+257,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+258,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+259,Papa,Verduras,77,0.1,2,17,C,B
+260,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+261,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+262,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+263,Miel,Varios,304,0,0.3,82,A,B
+264,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+265,Sardinas,Pescados,208,11.5,24,0,B,C
+266,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+267,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+268,Melón,Frutas,34,0.2,0.9,8.2,A,C
+269,Brotes de soja,Verduras,147,0.6,13,14,C,B
+270,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+271,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+272,Yogur griego,Lácteos,133,10,10,3.4,B,C
+273,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+274,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+275,Salmón,Pescados,206,13.4,22,0,B,C
+276,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+277,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+278,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+279,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+280,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+281,Bacalao,Pescados,82,0.7,18,0,B,C
+282,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+283,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+284,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+285,Papa,Verduras,77,0.1,2,17,C,B
+286,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+287,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+288,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+289,Miel,Varios,304,0,0.3,82,A,B
+290,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+291,Sardinas,Pescados,208,11.5,24,0,B,C
+292,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+293,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+294,Melón,Frutas,34,0.2,0.9,8.2,A,C
+295,Brotes de soja,Verduras,147,0.6,13,14,C,B
+296,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+297,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+298,Yogur griego,Lácteos,133,10,10,3.4,B,C
+299,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+300,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+301,Salmón,Pescados,206,13.4,22,0,B,C
+302,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+303,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+304,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+305,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+306,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+307,Bacalao,Pescados,82,0.7,18,0,B,C
+308,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+309,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+310,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+311,Papa,Verduras,77,0.1,2,17,C,B
+312,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+313,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+314,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+315,Miel,Varios,304,0,0.3,82,A,B
+316,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+317,Sardinas,Pescados,208,11.5,24,0,B,C
+318,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+319,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+320,Melón,Frutas,34,0.2,0.9,8.2,A,C
+321,Brotes de soja,Verduras,147,0.6,13,14,C,B
+322,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+323,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+324,Yogur griego,Lácteos,133,10,10,3.4,B,C
+325,Mantequilla de maní,Varios,588,50.1,24.9,20.9,A,B
+326,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+327,Salmón,Pescados,206,13.4,22,0,B,C
+328,Pollo,Carne,335,3.6,25,0,Ninguna,Ninguna
+329,Arroz integral,Cereales,111,0.9,2.6,23.5,B,D
+330,Leche de almendras,Lácteos,17,1.5,0.4,0.6,A,B
+331,Aceite de oliva,Varios,884,100,0,0,Ninguna,Ninguna
+332,Espárragos,Verduras,20,0.2,2.2,3.7,C,B
+333,Bacalao,Pescados,82,0.7,18,0,B,C
+334,Salchicha,Carne,301,27.6,14.8,1,Ninguna,Ninguna
+335,Frijoles negros,Legumbres,339,1.4,21.6,62.4,A,B
+336,Kiwi,Frutas,61,0.5,1.1,14.7,A,C
+337,Papa,Verduras,77,0.1,2,17,C,B
+338,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+339,Amaranto,Cereales,371,7.1,14.4,65.2,B,E
+340,Yogur de soja,Lácteos,54,3.3,3.7,3.6,A,C
+341,Miel,Varios,304,0,0.3,82,A,B
+342,Espinaca,Verduras,23,0.4,2.9,3.6,A,C
+343,Sardinas,Pescados,208,11.5,24,0,B,C
+344,Tocino,Carne,471,42.5,13.9,0.1,Ninguna,Ninguna
+345,Garbanzos,Legumbres,164,2.6,8.9,27,A,B
+346,Melón,Frutas,34,0.2,0.9,8.2,A,C
+347,Brotes de soja,Verduras,147,0.6,13,14,C,B
+348,Cerdo,Carne,242,16.4,25.7,0,Ninguna,Ninguna
+349,Quinua,Cereales,368,6.1,14.1,64.2,B,E
+350,Yogur griego,Lácteos,133,10,10,3.4,B,C
